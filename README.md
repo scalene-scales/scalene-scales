@@ -1,6 +1,6 @@
 # GitHub Pages Links
 
-(Devotion: Engine Waltz)[https://scalene-scales.github.io/de-waltz/]
+[Devotion: Engine Waltz](https://scalene-scales.github.io/de-waltz/)
 
 [A pretty terrible Towers of Hanoi implementation](https://scalene-scales.github.io/dews-towers/)
 
